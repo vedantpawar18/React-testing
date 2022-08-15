@@ -1,0 +1,28 @@
+.button {
+    color: white;
+    cursor: pointer;
+    margin-top: 1rem;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: greenyellow;
+}
+
+.ghost{
+    border: none;
+}
+
+.outline{
+    border: 1px solid green;
+    color: black;
+}
